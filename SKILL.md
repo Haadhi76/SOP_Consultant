@@ -26,10 +26,10 @@ Samraj & Monk (2008, *English for Specific Purposes*), Chiu (2015 & 2016,
 *Journal of English for Academic Purposes* — doctoral statements and the
 academics who evaluate them), Ganguly (2020, Missouri S&T thesis — style
 findings published in *Xchanges* 2021, appeals findings in *English for Specific
-Purposes* 2022), López-Ferrero & Bach (2016, *Discourse Studies*), alongside
-institutional advice from university graduate schools. The findings below are empirical observations about what
-admitted applicants did, which is why they are worth following. Use-case- and
-fluency-specific findings live in the reference files and are cited there.
+Purposes* 2022), and López-Ferrero & Bach (2016, *Discourse Studies*). The
+findings below are empirical observations about what admitted applicants did,
+which is why they are worth following. Use-case- and fluency-specific findings
+live in the reference files and are cited there.
 
 ## The one thing to get right first
 
@@ -58,18 +58,21 @@ together rather than one at a time.
 
 **First, establish two things that change which references you load:**
 
-1. **Use case.** Ask which applies: a *taught master's*, a *research master's
-   or PhD/doctoral* program, or a *fellowship/scholarship/grant*. Separately ask
-   whether this is a *career change* (a pivot into a new field), since that
-   layers on top of either degree case. Read the matching file(s):
+1. **Use case.** Ask which degree or program case applies: a *taught master's*,
+   a *research master's / PhD / doctoral* program, or an *MFA / creative
+   program*. Then ask two modifier questions, since each can layer on top of a
+   degree case rather than replace it: is this a *career change* (a pivot into a
+   new field)? And is a *fellowship, scholarship, or grant* involved? Fellowship
+   can stand alone, but a funded PhD, for instance, loads both the research-PhD
+   and the fellowship files. Read the matching file(s):
 
    | Use case | File |
    |---|---|
    | Taught master's | `references/use-case-taught-masters.md` |
    | Research master's / PhD / doctoral | `references/use-case-research-phd.md` |
-   | Career change (modifier) | `references/use-case-career-change.md` — layer on top of the degree file |
-   | Fellowship / scholarship / grant | `references/use-case-fellowship-scholarship.md` |
    | MFA / creative program | `references/use-case-mfa.md` |
+   | Career change (modifier) | `references/use-case-career-change.md` — layer on top of the degree file |
+   | Fellowship / scholarship / grant (standalone or modifier) | `references/use-case-fellowship-scholarship.md` — can also layer on top of a degree file |
 
    These are deltas — read alongside `references/move-framework.md`,
    `references/style-and-voice.md`, and `references/revision-checklist.md`,

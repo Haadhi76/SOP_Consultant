@@ -142,7 +142,7 @@ Not a rigid template — adapt freely:
 
 1. **Open** on the specific motivating moment (Generalization + a pathos beat).
 2. **Build the relevant + professional self** by braiding Education/Work
-   credentials with why each points toward this field (Move 2 ⟷ Move 3).
+   credentials with why each points toward this field (Move 2 ↔ Move 3).
 3. **Name the gap** candidly, then **the gains** this program provides
    (Gap → Positive Gains), anchored in **specific program attributes**
    (Move 3, Program attributes step).

@@ -24,8 +24,9 @@ to tick off while still reading as a coherent narrative.
   genuine, specific commitment, not aspiration.
 - **Goals stated with conviction.** Fellowship guidance consistently calls for
   strong declarative language about goals ("I will", "I plan to") and warns
-  against hedging across several possible futures or undercutting language ("if
-  possible, I might like to"). Commit to one clear plan.
+  against hedging across several possible futures or undercutting language
+  (rewrite "if possible, I might like to explore..." as "I will pursue...").
+  Commit to one clear plan.
 - **Feasibility, for research/project fellowships.** If the award funds a
   specific project or period of study, the statement should sketch a project
   that is concrete and *achievable* within the fellowship's scope and timeline.

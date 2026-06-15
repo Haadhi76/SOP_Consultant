@@ -7,10 +7,10 @@ academics who evaluate them, is the primary basis for the deltas below.
 ## The moves still hold, but the center of gravity shifts
 
 Chiu (2016) found doctoral statements organized around four main moves —
-**introduction, relevant background, reasons for applying, and conclusion**,
-with extra-curricular information optional — the same architecture as the base.
-What changes is *which move does the heavy lifting* and *what counts as
-credibility*.
+**introduction, relevant background, reasons for applying, and conclusion** —
+plus an optional extra-curricular move. That is the same architecture as the
+base framework, whose Extra-curricular move is likewise optional. What changes is
+*which move does the heavy lifting* and *what counts as credibility*.
 
 ## What to emphasize
 
