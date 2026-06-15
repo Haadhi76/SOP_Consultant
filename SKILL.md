@@ -1,16 +1,16 @@
 ---
 name: statement-of-purpose
 description: >-
-  This skill should be used whenever the user mentions an SOP, statement of
-  purpose, personal statement, grad-school application essay, grad school essay,
-  admissions essay, motivation letter or letter of intent (treated identically),
-  research statement for a graduate application, or MFA / creative-program
-  personal statement —
+  Use when the user mentions an SOP, statement of purpose, personal statement,
+  grad-school application essay, grad school essay, admissions essay, motivation
+  letter or letter of intent (treated identically), research statement for a
+  graduate application, or MFA / creative-program personal statement —
   whether they want a full draft, an outline, a structural critique, help
   rescuing a draft that reads as generic, flat, or obviously AI-written, or
   reviewing and giving feedback on a draft they've already written. Also
   applies for fellowship statements, scholarship essays, and grant personal
   statements.
+license: MIT
 ---
 
 # Statement of Purpose
