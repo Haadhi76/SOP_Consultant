@@ -4,16 +4,27 @@ Contributions are welcome — bug fixes, improved reference content, new use-cas
 
 ## What this skill is
 
-A Claude Code skill that helps users write Statements of Purpose for graduate-school and fellowship applications. It follows the [Agent Skills Open Standard](https://agentskills.io/specification). The entry point is `SKILL.md`; all supporting content lives under `references/`.
+An agent skill — following the [Agent Skills open standard](https://agentskills.io/specification) — that helps users write Statements of Purpose for graduate-school and fellowship applications. It works with any compatible agent (Claude Code, Codex CLI, Gemini CLI, Antigravity, OpenCode, and others). The entry point is `SKILL.md`; all supporting content lives under `references/`.
 
 ## How to install locally for testing
 
+Clone into the skills directory for your agent (folder name must be `statement-of-purpose`):
+
 ```bash
-git clone https://github.com/Haadhi76/SOP_Consultant.git
-cp -r SOP_Consultant ~/.claude/skills/statement-of-purpose
+# Claude Code
+git clone https://github.com/Haadhi76/SOP_Consultant.git \
+  ~/.claude/skills/statement-of-purpose
+
+# Codex CLI
+git clone https://github.com/Haadhi76/SOP_Consultant.git \
+  ~/.agents/skills/statement-of-purpose
+
+# OpenCode
+git clone https://github.com/Haadhi76/SOP_Consultant.git \
+  ~/.config/opencode/skills/statement-of-purpose
 ```
 
-Claude Code picks up skills automatically from `~/.claude/skills/` — no restart needed.
+Agents discover skills automatically from these paths — no restart needed.
 
 ## Types of contributions
 
@@ -33,12 +44,12 @@ Changes to the main skill file affect every user. Keep the body under 500 lines.
 
 1. Fork the repo and create a branch from `main`.
 2. Make your changes.
-3. Test the skill locally by triggering it in a Claude Code session.
+3. Test the skill locally by triggering it in a session with your agent of choice.
 4. Open a pull request. Describe what you changed and why.
 
 ## Style conventions
 
-- Follow the description guidelines from the [Anthropic skill authoring docs](https://docs.anthropic.com/en/docs/agents-and-tools/agent-skills/best-practices): third-person, trigger-focused, no workflow summary in the description.
+- Follow the [Agent Skills specification](https://agentskills.io/specification) for frontmatter: `name` matches the folder name, `description` is third-person, trigger-focused, and contains no workflow summary.
 - Keep file references to one level deep from `SKILL.md`.
 - Cite peer-reviewed sources where available. Mark practitioner guidance as such.
 - No fabricated examples, credentials, or citations.

@@ -2,7 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A Claude Code skill for writing, drafting, structuring, and revising Statements of Purpose (SOPs), personal statements, letters of intent, and MFA / creative-program personal statements for graduate-school, fellowship, and scholarship applications.
+An agent skill for writing, drafting, structuring, and revising Statements of Purpose (SOPs), personal statements, letters of intent, and MFA / creative-program personal statements for graduate-school, fellowship, and scholarship applications.
+
+Works with any agent that supports the [Agent Skills open standard](https://agentskills.io/specification) — Claude Code, Codex CLI, Gemini CLI, Antigravity, OpenCode, GitHub Copilot, and others.
 
 Built on peer-reviewed genre analysis of real, successful SOPs — not a template.
 
@@ -16,13 +18,23 @@ Built on peer-reviewed genre analysis of real, successful SOPs — not a templat
 
 ## Installation
 
-Copy the skill into your Claude Code skills directory:
+Clone or copy the skill directory into your agent's skills folder. The folder name must be `statement-of-purpose`.
 
-```
-~/.claude/skills/statement-of-purpose/
+| Agent | Global install path |
+|---|---|
+| Claude Code | `~/.claude/skills/statement-of-purpose/` |
+| Codex CLI | `~/.agents/skills/statement-of-purpose/` |
+| Gemini CLI / Antigravity | `~/.gemini/antigravity/skills/statement-of-purpose/` |
+| OpenCode | `~/.config/opencode/skills/statement-of-purpose/` |
+| VS Code / GitHub Copilot | `.github/skills/statement-of-purpose/` (project-level) |
+
+```bash
+# Example — Claude Code
+git clone https://github.com/Haadhi76/SOP_Consultant.git \
+  ~/.claude/skills/statement-of-purpose
 ```
 
-The directory must contain `SKILL.md` and the full `references/` folder. Claude Code discovers skills by scanning that directory — no further configuration required.
+The directory must contain `SKILL.md` and the full `references/` folder. No further configuration is required — agents discover skills automatically from the paths above.
 
 ## Triggering the skill
 
