@@ -2,14 +2,14 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A Claude Code skill for writing, drafting, structuring, and revising Statements of Purpose (SOPs), personal statements, and letters of intent for graduate-school, fellowship, and scholarship applications.
+A Claude Code skill for writing, drafting, structuring, and revising Statements of Purpose (SOPs), personal statements, letters of intent, and MFA / creative-program personal statements for graduate-school, fellowship, and scholarship applications.
 
 Built on peer-reviewed genre analysis of real, successful SOPs — not a template.
 
 ## What it does
 
-- Drafts full SOPs from scratch or rescues weak existing drafts
-- Adapts to program type: taught master's, research/PhD, fellowship/scholarship, career change
+- Drafts full SOPs from scratch, rescues weak existing drafts, or reviews and gives feedback on a draft the applicant already wrote
+- Adapts to program type: taught master's, research/PhD, fellowship/scholarship, career change, MFA / creative programs
 - Adapts to the applicant's English-fluency level
 - Grounds every essay in the applicant's own truthful material
 - Applies the rhetorical move framework found in admitted-applicant SOPs
@@ -28,11 +28,12 @@ The directory must contain `SKILL.md` and the full `references/` folder. Claude 
 
 Claude will load this skill automatically when you mention:
 
-- Statement of Purpose / SOP
-- Personal statement
-- Grad-school application essay
-- Admissions essay / motivation letter
-- Letter of intent
+- Statement of Purpose / SOP / personal statement
+- Grad-school application essay / admissions essay
+- Motivation letter / letter of intent / research proposal
+- Fellowship statement / scholarship essay / grant personal statement
+- MFA or creative-program personal statement
+- Reviewing or giving feedback on any of the above
 
 You can also trigger it explicitly: *"Use the statement-of-purpose skill to help me write my SOP for [program]."*
 
@@ -68,4 +69,4 @@ This skill does not invent credentials, faculty names, or program details. It do
 
 ## Sources
 
-Samraj & Monk (2008), Chiu (2015, 2016), Ganguly (2020), López-Ferrero & Bach (2016), *Xchanges* (2021), and institutional advice from university graduate schools.
+Samraj & Monk (2008), Chiu (2015, 2016), López-Ferrero & Bach (2016), Ganguly (2020, Missouri S&T thesis; published in *Xchanges* 2021), and institutional advice from university graduate schools.
