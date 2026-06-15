@@ -45,5 +45,3 @@ not arrogance.
 
 - Chiu, Y.-L. T. (2015; 2016), Journal of English for Academic Purposes — L2
   doctoral applicants; statement read as evidence of academic writing ability.
-- Related EAP genre-awareness research on L1/L2 application of occluded genres
-  (Li & Deng, 2019; Casal & Kessler, 2020 — author-year, related reading).

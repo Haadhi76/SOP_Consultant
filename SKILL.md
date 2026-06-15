@@ -4,8 +4,9 @@ description: >-
   This skill should be used whenever the user mentions an SOP, statement of
   purpose, personal statement, grad-school application essay, grad school essay,
   admissions essay, motivation letter, letter of intent, or research proposal —
-  whether they want a full draft, an outline, a structural critique, or help
-  rescuing a draft that reads as generic, flat, or obviously AI-written. Also
+  whether they want a full draft, an outline, a structural critique, help
+  rescuing a draft that reads as generic, flat, or obviously AI-written, or
+  reviewing and giving feedback on a draft they've already written. Also
   applies for fellowship statements, scholarship essays, and grant personal
   statements.
 ---
@@ -67,8 +68,9 @@ together rather than one at a time.
    | Career change (modifier) | `references/use-case-career-change.md` — layer on top of the degree file |
    | Fellowship / scholarship / grant | `references/use-case-fellowship-scholarship.md` |
 
-   These are deltas on top of the base — read alongside core files, not instead.
-   If more than one applies, read both; the deltas compose.
+   These are deltas — read alongside `references/move-framework.md`,
+   `references/style-and-voice.md`, and `references/revision-checklist.md`,
+   not instead of them. If more than one applies, read both; the deltas compose.
 
 2. **English-fluency level.** Ask how comfortable the applicant is writing
    academic English (fluent/native, advanced but with some non-native markers,
@@ -84,7 +86,7 @@ together rather than one at a time.
    When unsure, pick the more supportive level and dial back.
 
 Do not skip these two questions — they determine the whole shape of the help.
-Keep them quick (a tap-to-answer question is ideal).
+Offer labelled options (e.g., 1/2/3 or a/b/c) so the applicant can answer quickly.
 
 **Then gather the applicant's material:**
 
@@ -163,10 +165,11 @@ clear direction?
 
 ### 6. Deliver
 
-Output the SOP at the right length for the program (default to the stated limit;
-if none, ~650–750 words for a taught master's). For a substantial draft, write
-it to a file so the applicant can edit and submit it as their own. Offer a short
-note on what you'd flag for the applicant to personally verify or strengthen.
+Output the SOP at the program's stated limit. If none is given, see
+`references/style-and-voice.md` for length defaults by program type. For a
+substantial draft, write it to a file so the applicant can edit and submit it
+as their own. Offer a short note on what you'd flag for the applicant to
+personally verify or strengthen.
 
 ## Hard rules
 
@@ -211,6 +214,4 @@ makes the skill something it should not be:
 `references/fluency-developing-l2.md`.
 
 The use-case and fluency files are *deltas* layered on the core — read them in
-addition to the core files, never instead of them. Their sources (Chiu 2015,
-2016; Samraj & Monk 2008; López-Ferrero & Bach 2016; Ganguly 2020) are listed in
-each file.
+addition to the core files, never instead of them. Sources are cited in each file.

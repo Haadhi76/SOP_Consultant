@@ -49,5 +49,6 @@ through-line, and the fit-with-mission that the CV and references cannot express
   (Chiu 2015, 2016; López-Ferrero & Bach 2016); the move architecture in the
   base framework still applies.
 - The criteria-mapping, declarative-goals, and no-hedging points reflect
-  consistent fellowship-office guidance (university scholars'/fellowships
-  offices) — practitioner convention, not an empirical finding.
+  common guidance from publicly available fellowship-office advice (Fulbright,
+  Rhodes, Marshall, and similar) — practitioner convention, not an empirical
+  finding.

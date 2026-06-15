@@ -132,10 +132,14 @@ through the narrative, not as separate paragraphs labelled by trait.
 
 ---
 
-## Quick assembly heuristic
+## Quick assembly heuristic (taught master's as example — adapt for use case)
 
-A workable spine for a taught-master's SOP (adapt freely; this is not a rigid
-template):
+A workable spine, shown for a taught master's. For a research/PhD statement,
+the same spine applies but the program-fit block centres on named supervisors
+and research questions rather than curriculum. For a fellowship, the gains step
+maps onto mission alignment with the funder's criteria.
+
+Not a rigid template — adapt freely:
 
 1. **Open** on the specific motivating moment (Generalization + a pathos beat).
 2. **Build the relevant + professional self** by braiding Education/Work

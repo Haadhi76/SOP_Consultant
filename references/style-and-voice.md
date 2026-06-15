@@ -45,10 +45,7 @@ That comes from real, particular content in the applicant's own idiom. The
 guidance below removes the tells of flat, generic prose so the applicant's
 actual voice is what remains.
 
-> Note on scope: this is about authenticity and writing quality. It is **not** a
-> method for making AI-generated text evade detection, and it should not be used
-> or described that way. The aim is that the applicant's own true statement
-> reads as their own — because it is. See the Hard rules in SKILL.md.
+> This is about authenticity and quality, not about defeating AI-detection — see Hard rules in SKILL.md.
 
 ### Cut the AI vocabulary tells
 

@@ -39,7 +39,7 @@ applicant's target field and weight the steps to match what that field values.
 
 ## Typical shape
 
-- Length: honor the stated limit; ~600–800 words is common where none is given.
+- Length: honor the stated limit; ~650–750 words is a sound default where none is given.
 - A research proposal is **not** usually expected. If the program asks for one
   separately, keep the SOP focused on purpose and fit and let the proposal carry
   the research detail.
