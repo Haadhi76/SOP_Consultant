@@ -47,4 +47,5 @@ applicant's target field and weight the steps to match what that field values.
 ## Sources
 
 - Samraj & Monk (2008), English for Specific Purposes 27(2), 193–211.
-- López-Ferrero & Bach (2016), Discourse Studies 18(3), 286–310.
+- López-Ferrero & Bach (2016), Discourse Studies 18(3), 286–310 (note:
+  Spanish-language corpus; findings applied cross-linguistically).

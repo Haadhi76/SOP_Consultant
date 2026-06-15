@@ -3,8 +3,9 @@ name: statement-of-purpose
 description: >-
   This skill should be used whenever the user mentions an SOP, statement of
   purpose, personal statement, grad-school application essay, grad school essay,
-  admissions essay, motivation letter, letter of intent, research proposal, or
-  MFA / creative-program personal statement —
+  admissions essay, motivation letter or letter of intent (treated identically),
+  research statement for a graduate application, or MFA / creative-program
+  personal statement —
   whether they want a full draft, an outline, a structural critique, help
   rescuing a draft that reads as generic, flat, or obviously AI-written, or
   reviewing and giving feedback on a draft they've already written. Also
@@ -67,6 +68,7 @@ together rather than one at a time.
    | Research master's / PhD / doctoral | `references/use-case-research-phd.md` |
    | Career change (modifier) | `references/use-case-career-change.md` — layer on top of the degree file |
    | Fellowship / scholarship / grant | `references/use-case-fellowship-scholarship.md` |
+   | MFA / creative program | `references/use-case-mfa.md` |
 
    These are deltas — read alongside `references/move-framework.md`,
    `references/style-and-voice.md`, and `references/revision-checklist.md`,

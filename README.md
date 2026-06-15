@@ -30,7 +30,8 @@ Claude will load this skill automatically when you mention:
 
 - Statement of Purpose / SOP / personal statement
 - Grad-school application essay / admissions essay
-- Motivation letter / letter of intent / research proposal
+- Motivation letter / letter of intent (treated identically)
+- Research statement for a graduate application
 - Fellowship statement / scholarship essay / grant personal statement
 - MFA or creative-program personal statement
 - Reviewing or giving feedback on any of the above
@@ -50,6 +51,7 @@ statement-of-purpose/
     ├── use-case-research-phd.md           # Research master's and doctoral calibration
     ├── use-case-career-change.md          # Career-pivot modifier (layered on top of degree case)
     ├── use-case-fellowship-scholarship.md # Fellowship and scholarship calibration
+    ├── use-case-mfa.md                    # MFA and creative-program calibration
     ├── fluency-fluent-or-native.md        # Guidance for fluent / native-English writers
     ├── fluency-advanced-l2.md             # Guidance for advanced non-native writers
     └── fluency-developing-l2.md           # Guidance for writers still building academic English

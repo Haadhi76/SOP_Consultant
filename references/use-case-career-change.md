@@ -59,6 +59,6 @@ connection is part of the persuasion. (See `references/style-and-voice.md`.)
 - Chiu, Y.-L. T. (2016), Journal of English for Academic Purposes 21, 48–59
   (writer identity construction).
 - Samraj & Monk (2008), English for Specific Purposes 27(2), 193–211 (the
-  Gap → Positive Gains sequence; self-construction).
+  Gap → Positive Gains sequence).
 - Practitioner consensus from graduate-admissions guidance (esp. MBA
   career-change essay advice) — convention, explicitly not research.

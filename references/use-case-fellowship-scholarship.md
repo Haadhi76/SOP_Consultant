@@ -19,9 +19,9 @@ to tick off while still reading as a coherent narrative.
   frequently select *for* it. Where the applicant's goals authentically serve
   the funder's purpose, make that connection explicit and specific. Where they
   do not, do not fake it — choose a different framing or a different funder.
-  This is also where the Benevolent self (see `references/move-framework.md`
-  section 4) is most active — construct it through genuine, specific
-  commitment, not aspiration.
+  This is also where the Benevolent self (see the "Self-construction" section
+  in `references/move-framework.md`) is most active — construct it through
+  genuine, specific commitment, not aspiration.
 - **Goals stated with conviction.** Fellowship guidance consistently calls for
   strong declarative language about goals ("I will", "I plan to") and warns
   against hedging across several possible futures or undercutting language ("if
