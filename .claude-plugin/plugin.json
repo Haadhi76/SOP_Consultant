@@ -3,7 +3,8 @@
   "description": "Write, structure, and revise Statements of Purpose, personal statements, grad-school and fellowship essays, and MBA / MFA personal statements — grounded in genre-analysis research, not templates.",
   "version": "1.0.0",
   "author": {
-    "name": "Haadhi Irfan"
+    "name": "Haadhi Irfan",
+    "email": "haadhi.irfan@gmail.com"
   },
   "homepage": "https://github.com/Haadhi76/SOP_Consultant",
   "repository": "https://github.com/Haadhi76/SOP_Consultant",
