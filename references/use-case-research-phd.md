@@ -35,11 +35,13 @@ credibility*.
 
 ## How gatekeepers read it
 
-Chiu (2015) interviewed faculty assessors and found they treat the statement as
-evidence of research potential, fit with the program, *and* the applicant's
-academic writing ability itself — the document is read as a writing sample. This
-raises the bar on clarity, structure, and disciplinary register (see the
-applicable fluency file loaded in step 1).
+Chiu (2015) interviewed faculty assessors at UK and US institutions. *Fit* with
+the program was the criterion both groups shared. US assessors were more likely
+to also read the statement as evidence of research potential and as a writing
+sample in its own right; UK assessors leaned on the separate research proposal
+for those and treated the statement as more supplementary. Where the statement
+is read as a writing sample, the bar on clarity, structure, and disciplinary
+register rises (see the applicable fluency file loaded in step 1).
 
 ## What to de-emphasize
 
@@ -63,7 +65,13 @@ applicable fluency file loaded in step 1).
 
 ## Sources
 
-- Chiu, Y.-L. T. (2015), Journal of English for Academic Purposes 17, 63–73.
-- Chiu, Y.-L. T. (2016), Journal of English for Academic Purposes 21, 48–59.
-- Samraj & Monk (2008), English for Specific Purposes 27(2), 193–211 (base
+- Chiu, Y.-L. T. (2015). Personal statement in PhD applications: Gatekeepers'
+  evaluative perspectives. *Journal of English for Academic Purposes, 17*, 63–73.
+  https://doi.org/10.1016/j.jeap.2015.02.002
+- Chiu, Y.-L. T. (2016). 'Singing your tune': Genre structure and writer identity
+  in personal statements for doctoral applications. *Journal of English for
+  Academic Purposes, 21*, 48–59. https://doi.org/10.1016/j.jeap.2015.11.001
+- Samraj, B., & Monk, L. (2008). The statement of purpose in graduate program
+  applications: Genre structure and disciplinary variation. *English for Specific
+  Purposes, 27*(2), 193–211. https://doi.org/10.1016/j.esp.2007.07.001 (base
   framework; disciplinary variation).

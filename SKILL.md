@@ -24,9 +24,10 @@ template.
 The guidance here comes from genre-analysis research on real, successful SOPs:
 Samraj & Monk (2008, *English for Specific Purposes*), Chiu (2015 & 2016,
 *Journal of English for Academic Purposes* — doctoral statements and the
-academics who evaluate them), Ganguly (2020, Missouri S&T thesis; published in *Xchanges* 2021),
-López-Ferrero & Bach (2016, *Discourse Studies*), alongside institutional advice from university
-graduate schools. The findings below are empirical observations about what
+academics who evaluate them), Ganguly (2020, Missouri S&T thesis — style
+findings published in *Xchanges* 2021, appeals findings in *English for Specific
+Purposes* 2022), López-Ferrero & Bach (2016, *Discourse Studies*), alongside
+institutional advice from university graduate schools. The findings below are empirical observations about what
 admitted applicants did, which is why they are worth following. Use-case- and
 fluency-specific findings live in the reference files and are cited there.
 

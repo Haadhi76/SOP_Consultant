@@ -153,9 +153,19 @@ Not a rigid template — adapt freely:
 
 ## Sources
 
-- Samraj & Monk (2008), English for Specific Purposes 27(2), 193–211
-  (move/step taxonomy).
-- Ganguly, P. (2020, Missouri S&T thesis; *Xchanges* 2021) (coding and
-  extension of the taxonomy; appeals analysis).
-- López-Ferrero & Bach (2016), Discourse Studies 18(3), 286–310
-  (cross-disciplinary variation in move realization).
+- Samraj, B., & Monk, L. (2008). The statement of purpose in graduate program
+  applications: Genre structure and disciplinary variation. *English for Specific
+  Purposes, 27*(2), 193–211. https://doi.org/10.1016/j.esp.2007.07.001
+  (move/step taxonomy; disciplinary variation — same moves realized through
+  different steps across disciplines).
+- Ganguly, P. (2020). Rhetorical analysis of statements of purpose for admission
+  to graduate school [Master's thesis, Missouri S&T]. Scholars' Mine.
+  (Coding/extension of the taxonomy and the ethos/logos/pathos appeals analysis;
+  the thesis found ethos the most prevalent appeal. The appeals findings were
+  published as Ganguly, P. (2022), *English for Specific Purposes, 68*; the
+  style findings as Ganguly, P. (2021), *Xchanges, 16*(1).)
+- López-Ferrero, C., & Bach, C. (2016). Discourse analysis of statements of
+  purpose: Connecting academic and professional genres. *Discourse Studies,
+  18*(3), 286–310. https://doi.org/10.1177/1461445616634553 (master's-level
+  motivation letters as an academic–professional hybrid genre; Spanish-language
+  corpus).

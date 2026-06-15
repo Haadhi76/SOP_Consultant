@@ -59,8 +59,15 @@ writing centre does. The boundary:
 ## Sources
 
 - Style/register findings (simple and loose sentences for clarity): Ganguly,
-  P. (2020, Missouri S&T thesis; *Xchanges* 2021) — see `references/style-and-voice.md`.
-- L2 / EAP genre context: Chiu, Y.-L. T. (2015), Journal of English for
-  Academic Purposes 17, 63–73; Chiu, Y.-L. T. (2016), Journal of English for
-  Academic Purposes 21, 48–59; López-Ferrero & Bach (2016), Discourse Studies
-  18(3), 286–310.
+  P. (2020). Rhetorical analysis of statements of purpose [Master's thesis,
+  Missouri S&T]; style chapter published as Ganguly, P. (2021), *Xchanges, 16*(1).
+  See `references/style-and-voice.md`.
+- L2 / EAP genre context: Chiu, Y.-L. T. (2015). Personal statement in PhD
+  applications: Gatekeepers' evaluative perspectives. *Journal of English for
+  Academic Purposes, 17*, 63–73. https://doi.org/10.1016/j.jeap.2015.02.002;
+  Chiu, Y.-L. T. (2016). 'Singing your tune': Genre structure and writer identity
+  in personal statements for doctoral applications. *Journal of English for
+  Academic Purposes, 21*, 48–59. https://doi.org/10.1016/j.jeap.2015.11.001;
+  López-Ferrero, C., & Bach, C. (2016). Discourse analysis of statements of
+  purpose: Connecting academic and professional genres. *Discourse Studies,
+  18*(3), 286–310. https://doi.org/10.1177/1461445616634553

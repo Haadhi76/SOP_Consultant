@@ -56,9 +56,13 @@ connection is part of the persuasion. (See `references/style-and-voice.md`.)
 
 ## Sources
 
-- Chiu, Y.-L. T. (2016), Journal of English for Academic Purposes 21, 48–59
+- Chiu, Y.-L. T. (2016). 'Singing your tune': Genre structure and writer identity
+  in personal statements for doctoral applications. *Journal of English for
+  Academic Purposes, 21*, 48–59. https://doi.org/10.1016/j.jeap.2015.11.001
   (writer identity construction).
-- Samraj & Monk (2008), English for Specific Purposes 27(2), 193–211 (the
+- Samraj, B., & Monk, L. (2008). The statement of purpose in graduate program
+  applications: Genre structure and disciplinary variation. *English for Specific
+  Purposes, 27*(2), 193–211. https://doi.org/10.1016/j.esp.2007.07.001 (the
   Gap → Positive Gains sequence).
 - Practitioner consensus from graduate-admissions guidance (esp. MBA
   career-change essay advice) — convention, explicitly not research.

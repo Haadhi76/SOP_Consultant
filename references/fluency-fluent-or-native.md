@@ -32,5 +32,6 @@ smooth enough to hide it:
 
 ## Sources
 
-- Style/register findings: Ganguly, P. (2020, Missouri S&T thesis; *Xchanges*
-  2021) — see `references/style-and-voice.md`.
+- Style/register findings: Ganguly, P. (2020). Rhetorical analysis of statements
+  of purpose [Master's thesis, Missouri S&T]; style chapter published as Ganguly,
+  P. (2021), *Xchanges, 16*(1). See `references/style-and-voice.md`.

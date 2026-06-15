@@ -43,5 +43,9 @@ not arrogance.
 
 ## Sources
 
-- Chiu, Y.-L. T. (2015), Journal of English for Academic Purposes 17, 63–73.
-- Chiu, Y.-L. T. (2016), Journal of English for Academic Purposes 21, 48–59.
+- Chiu, Y.-L. T. (2015). Personal statement in PhD applications: Gatekeepers'
+  evaluative perspectives. *Journal of English for Academic Purposes, 17*, 63–73.
+  https://doi.org/10.1016/j.jeap.2015.02.002
+- Chiu, Y.-L. T. (2016). 'Singing your tune': Genre structure and writer identity
+  in personal statements for doctoral applications. *Journal of English for
+  Academic Purposes, 21*, 48–59. https://doi.org/10.1016/j.jeap.2015.11.001

@@ -7,20 +7,22 @@ Read this before drafting. Two parts:
 2. **Authenticity** — how to keep the writing in the applicant's own voice and
    out of the generic, formulaic register that flat AI prose falls into.
 
-The register findings come from Ganguly (2020, Missouri S&T thesis; published
-in *Xchanges* 2021).
+The register findings come from Ganguly's rhetorical-style analysis (2020
+Missouri S&T thesis; style chapter published as Ganguly 2021, *Xchanges* 16(1)).
 
 ---
 
 ## 1. Stylistic register
 
-What admitted applicants actually did:
+What the register looks like in successful statements:
 
 - **First person, heavily.** "I" / "my" carry the SOP. It is a personal genre;
-  an impersonal, committee-report tone is wrong for it.
-- **Active voice, heavily.** Active voice creates directness and ownership ("I
-  built", "I noticed", "I led") — not "it was observed that". Directness is
-  persuasive here.
+  an impersonal, committee-report tone is wrong for it. (Corpus finding: Ganguly
+  found heavy use of first-person personal pronouns.)
+- **Active voice for directness and ownership.** "I built", "I noticed", "I led"
+  — not "it was observed that". This is standard composition guidance rather than
+  a coded finding of the corpus study, but it pairs naturally with the heavy
+  first-person voice and serves the genre's directness.
 - **Contractions: sparingly.** Not banned, but rare. A few keep it human; many
   tip it toward informal. The target is *formal but personal*, not stiff.
 - **Vary sentence length deliberately.** Long sentences develop an argument or

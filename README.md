@@ -83,4 +83,4 @@ This skill does not invent credentials, faculty names, or program details. It do
 
 ## Sources
 
-Samraj & Monk (2008), Chiu (2015, 2016), López-Ferrero & Bach (2016), Ganguly (2020, Missouri S&T thesis; published in *Xchanges* 2021), and institutional advice from university graduate schools.
+Samraj & Monk (2008), Chiu (2015, 2016), López-Ferrero & Bach (2016), Ganguly (2020, Missouri S&T thesis — style findings published in *Xchanges* 2021, appeals findings in *English for Specific Purposes* 2022), and institutional advice from university graduate schools.

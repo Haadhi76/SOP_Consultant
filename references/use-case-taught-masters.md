@@ -46,6 +46,10 @@ applicant's target field and weight the steps to match what that field values.
 
 ## Sources
 
-- Samraj & Monk (2008), English for Specific Purposes 27(2), 193–211.
-- López-Ferrero & Bach (2016), Discourse Studies 18(3), 286–310 (note:
+- Samraj, B., & Monk, L. (2008). The statement of purpose in graduate program
+  applications: Genre structure and disciplinary variation. *English for Specific
+  Purposes, 27*(2), 193–211. https://doi.org/10.1016/j.esp.2007.07.001
+- López-Ferrero, C., & Bach, C. (2016). Discourse analysis of statements of
+  purpose: Connecting academic and professional genres. *Discourse Studies,
+  18*(3), 286–310. https://doi.org/10.1177/1461445616634553 (note:
   Spanish-language corpus; findings applied cross-linguistically).

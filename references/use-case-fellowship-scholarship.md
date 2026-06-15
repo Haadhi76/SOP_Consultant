@@ -48,11 +48,19 @@ through-line, and the fit-with-mission that the CV and references cannot express
 ## Sources
 
 **Genre research (move architecture):**
-- Samraj & Monk (2008), English for Specific Purposes 27(2), 193–211 (base
+- Samraj, B., & Monk, L. (2008). The statement of purpose in graduate program
+  applications: Genre structure and disciplinary variation. *English for Specific
+  Purposes, 27*(2), 193–211. https://doi.org/10.1016/j.esp.2007.07.001 (base
   move architecture).
-- Chiu, Y.-L. T. (2015), Journal of English for Academic Purposes 17, 63–73.
-- Chiu, Y.-L. T. (2016), Journal of English for Academic Purposes 21, 48–59.
-- López-Ferrero & Bach (2016), Discourse Studies 18(3), 286–310.
+- Chiu, Y.-L. T. (2015). Personal statement in PhD applications: Gatekeepers'
+  evaluative perspectives. *Journal of English for Academic Purposes, 17*, 63–73.
+  https://doi.org/10.1016/j.jeap.2015.02.002
+- Chiu, Y.-L. T. (2016). 'Singing your tune': Genre structure and writer identity
+  in personal statements for doctoral applications. *Journal of English for
+  Academic Purposes, 21*, 48–59. https://doi.org/10.1016/j.jeap.2015.11.001
+- López-Ferrero, C., & Bach, C. (2016). Discourse analysis of statements of
+  purpose: Connecting academic and professional genres. *Discourse Studies,
+  18*(3), 286–310. https://doi.org/10.1177/1461445616634553
 
 **Practitioner convention (criteria-mapping, declarative goals, no-hedging,
 feasibility):** fellowship-office guidance from Fulbright, Rhodes, Marshall,
