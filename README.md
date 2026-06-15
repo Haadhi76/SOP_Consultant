@@ -11,7 +11,7 @@ Built on peer-reviewed genre analysis of real, successful SOPs — not a templat
 ## What it does
 
 - Drafts full SOPs from scratch, rescues weak existing drafts, or reviews and gives feedback on a draft the applicant already wrote
-- Adapts to program type: taught master's, research/PhD, fellowship/scholarship, career change, MFA / creative programs
+- Adapts to program type: taught master's, MBA / business school, research/PhD, fellowship/scholarship, career change, MFA / creative programs
 - Adapts to the applicant's English-fluency level
 - Grounds every essay in the applicant's own truthful material
 - Applies the rhetorical move framework found in admitted-applicant SOPs
@@ -44,6 +44,7 @@ Claude will load this skill automatically when you mention:
 - Grad-school application essay / admissions essay
 - Motivation letter / letter of intent (treated identically)
 - Research statement for a graduate application
+- MBA or business-school application essay
 - Fellowship statement / scholarship essay / grant personal statement
 - MFA or creative-program personal statement
 - Reviewing or giving feedback on any of the above
@@ -60,6 +61,7 @@ statement-of-purpose/
     ├── style-and-voice.md                 # Register, authenticity, anti-generic-AI guidance
     ├── revision-checklist.md              # Checklist for critiquing or polishing a draft
     ├── use-case-taught-masters.md         # Taught / coursework master's calibration
+    ├── use-case-mba.md                    # MBA / business-school calibration
     ├── use-case-research-phd.md           # Research master's and doctoral calibration
     ├── use-case-career-change.md          # Career-pivot modifier (layered on top of degree case)
     ├── use-case-fellowship-scholarship.md # Fellowship and scholarship calibration

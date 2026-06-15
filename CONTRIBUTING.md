@@ -35,7 +35,7 @@ Corrections to the research citations, typos, or factual errors in the reference
 Additions or corrections to `references/move-framework.md`, `references/style-and-voice.md`, `references/revision-checklist.md`, or the use-case / fluency leaf files. Ground claims in the cited literature where possible; if drawing on practitioner consensus, say so explicitly (the existing files model this convention).
 
 ### New use-case or fluency variants
-New leaf files under `references/` with the `use-case-` or `fluency-` prefix (e.g. `references/use-case-mba.md`). Follow the same delta format as the existing files — describe what changes relative to the base, not the full base workflow.
+New leaf files under `references/` with the `use-case-` or `fluency-` prefix (e.g. `references/use-case-law-school.md`). Follow the same delta format as the existing files — describe what changes relative to the base, not the full base workflow.
 
 ### SKILL.md changes
 Changes to the main skill file affect every user. Keep the body under 500 lines. All file references must be one level deep from `SKILL.md` (i.e., `references/filename.md`, not `references/subdir/filename.md`).

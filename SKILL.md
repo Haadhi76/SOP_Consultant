@@ -4,7 +4,8 @@ description: >-
   Use when the user mentions an SOP, statement of purpose, personal statement,
   grad-school application essay, grad school essay, admissions essay, motivation
   letter or letter of intent (treated identically), research statement for a
-  graduate application, or MFA / creative-program personal statement —
+  graduate application, an MBA or business-school application essay, or MFA /
+  creative-program personal statement —
   whether they want a full draft, an outline, a structural critique, help
   rescuing a draft that reads as generic, flat, or obviously AI-written, or
   reviewing and giving feedback on a draft they've already written. Also
@@ -59,16 +60,18 @@ together rather than one at a time.
 **First, establish two things that change which references you load:**
 
 1. **Use case.** Ask which degree or program case applies: a *taught master's*,
-   a *research master's / PhD / doctoral* program, or an *MFA / creative
-   program*. Then ask two modifier questions, since each can layer on top of a
-   degree case rather than replace it: is this a *career change* (a pivot into a
-   new field)? And is a *fellowship, scholarship, or grant* involved? Fellowship
-   can stand alone, but a funded PhD, for instance, loads both the research-PhD
-   and the fellowship files. Read the matching file(s):
+   an *MBA / business master's*, a *research master's / PhD / doctoral* program,
+   or an *MFA / creative program*. Then ask two modifier questions, since each
+   can layer on top of a degree case rather than replace it: is this a *career
+   change* (a pivot into a new field)? And is a *fellowship, scholarship, or
+   grant* involved? Fellowship can stand alone, but a funded PhD, for instance,
+   loads both the research-PhD and the fellowship files. (MBA applicants are
+   often career-changers — load that modifier too.) Read the matching file(s):
 
    | Use case | File |
    |---|---|
    | Taught master's | `references/use-case-taught-masters.md` |
+   | MBA / business school | `references/use-case-mba.md` |
    | Research master's / PhD / doctoral | `references/use-case-research-phd.md` |
    | MFA / creative program | `references/use-case-mfa.md` |
    | Career change (modifier) | `references/use-case-career-change.md` — layer on top of the degree file |
@@ -215,7 +218,8 @@ makes the skill something it should not be:
   critiquing one the applicant brings). Read before revising.
 
 **Use-case deltas (read the one[s] matching step 1):**
-`references/use-case-taught-masters.md`, `references/use-case-research-phd.md`,
+`references/use-case-taught-masters.md`, `references/use-case-mba.md`,
+`references/use-case-research-phd.md`, `references/use-case-mfa.md`,
 `references/use-case-career-change.md` (modifier),
 `references/use-case-fellowship-scholarship.md`.
 
