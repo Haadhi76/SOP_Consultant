@@ -44,13 +44,13 @@ statement-of-purpose/
     ├── style-and-voice.md            # Register, authenticity, anti-generic-AI guidance
     ├── revision-checklist.md         # Checklist for critiquing or polishing a draft
     ├── use-cases/
-    │   ├── README.md                 # Routing guide: which file to load for which program type
+    │   ├── README.md                 # Human reference: source notes and routing table
     │   ├── taught-masters.md         # Taught / coursework master's calibration
     │   ├── research-phd.md           # Research master's and doctoral calibration
     │   ├── career-change.md          # Career-pivot modifier (layered on top of degree case)
     │   └── fellowship-scholarship.md # Fellowship and scholarship calibration
     └── fluency/
-        ├── README.md                 # Routing guide: which file to load for which fluency level
+        ├── README.md                 # Human reference: source notes and routing table
         ├── fluent-or-native.md       # Guidance for fluent / native-English writers
         ├── advanced-l2.md            # Guidance for advanced non-native writers
         └── developing-l2.md          # Guidance for writers still building academic English
@@ -62,8 +62,9 @@ statement-of-purpose/
 
 - `move-framework.md` and `style-and-voice.md` are read for **every** SOP.
 - `revision-checklist.md` is read before revising any draft.
-- One file from `use-cases/` is selected based on the applicant's program type.
-- One file from `fluency/` is selected based on the applicant's English-fluency level.
+- `SKILL.md` contains inline routing tables that map program type → use-case file and fluency level → fluency file. Claude selects and loads those files directly — no intermediate README hop.
+
+The `use-cases/README.md` and `fluency/README.md` files are human-readable reference docs (source notes, extended routing rationale) and are not part of Claude's load path.
 
 ## Hard rules
 
