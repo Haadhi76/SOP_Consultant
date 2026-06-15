@@ -20,9 +20,11 @@ reads as templated or machine-made — the exact failure mode `references/style-
 targets. Watch for it harder here than at any other level, because the prose is
 smooth enough to hide it:
 
-- Cut the AI/template vocabulary (delve, tapestry, leverage, foster, robust,
-  multifaceted) and the "not just X, but Y" formula even when they are
-  grammatically flawless.
+- Cut all AI/template vocabulary listed in `references/style-and-voice.md` —
+  delve, tapestry, testament, realm, landscape, navigate (figurative),
+  underscore, multifaceted, intricate, pivotal, leverage, harness, foster,
+  holistic, robust, myriad — and the "not just X, but Y" formula even when
+  they are grammatically flawless.
 - Demand a specific fact in every paragraph. Fluency makes vague claims *sound*
   fine; they are still vague.
 - Keep some sentence-level roughness and variety. Relentless polish is itself a
@@ -30,5 +32,5 @@ smooth enough to hide it:
 
 ## Sources
 
-- Style/register findings: Ganguly (2020), Missouri S&T; and the SOP stylistic
-  analysis published in *Xchanges* (2021) referenced in `references/style-and-voice.md`.
+- Style/register findings: Ganguly, P. (2020, Missouri S&T thesis; *Xchanges*
+  2021) — see `references/style-and-voice.md`.

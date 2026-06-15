@@ -7,8 +7,8 @@ Read this before drafting. Two parts:
 2. **Authenticity** — how to keep the writing in the applicant's own voice and
    out of the generic, formulaic register that flat AI prose falls into.
 
-The register findings come from the stylistic analysis of successful SOPs in
-*Xchanges* (2021) and Ganguly (2020).
+The register findings come from Ganguly (2020, Missouri S&T thesis; published
+in *Xchanges* 2021).
 
 ---
 
@@ -105,5 +105,8 @@ true and particular. That is the target.
 - Honor the program's stated limit exactly. If none is given, ~650–750 words is
   a sound default for a taught master's; research/PhD statements often run
   longer where the program allows.
+- Fellowship and scholarship statements are often shorter and almost always
+  carry a strict word limit — follow it exactly; see
+  `references/use-case-fellowship-scholarship.md`.
 - No headings, no bullet lists inside the SOP itself — it is continuous prose.
 - One clear, confident closing direction. No hedging across multiple futures.

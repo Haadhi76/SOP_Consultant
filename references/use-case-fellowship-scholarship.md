@@ -19,6 +19,9 @@ to tick off while still reading as a coherent narrative.
   frequently select *for* it. Where the applicant's goals authentically serve
   the funder's purpose, make that connection explicit and specific. Where they
   do not, do not fake it — choose a different framing or a different funder.
+  This is also where the Benevolent self (see `references/move-framework.md`
+  section 4) is most active — construct it through genuine, specific
+  commitment, not aspiration.
 - **Goals stated with conviction.** Fellowship guidance consistently calls for
   strong declarative language about goals ("I will", "I plan to") and warns
   against hedging across several possible futures or undercutting language ("if
@@ -27,7 +30,7 @@ to tick off while still reading as a coherent narrative.
   specific project or period of study, the statement should sketch a project
   that is concrete and *achievable* within the fellowship's scope and timeline.
 
-## Intertextuality
+## The application as a system of documents
 
 A fellowship application is a *system* of documents — statement, CV, references,
 sometimes a research plan. The statement should align with and reinforce the
@@ -44,11 +47,13 @@ through-line, and the fit-with-mission that the CV and references cannot express
 
 ## Sources
 
-- Genre research on promotional application statements treats the fellowship /
-  grant statement within the same personal-statement genre family as the SOP
-  (Chiu 2015, 2016; López-Ferrero & Bach 2016); the move architecture in the
-  base framework still applies.
-- The criteria-mapping, declarative-goals, and no-hedging points reflect
-  common guidance from publicly available fellowship-office advice (Fulbright,
-  Rhodes, Marshall, and similar) — practitioner convention, not an empirical
-  finding.
+**Genre research (move architecture):**
+- Samraj & Monk (2008), English for Specific Purposes 27(2), 193–211 (base
+  move architecture).
+- Chiu, Y.-L. T. (2015), Journal of English for Academic Purposes 17, 63–73.
+- Chiu, Y.-L. T. (2016), Journal of English for Academic Purposes 21, 48–59.
+- López-Ferrero & Bach (2016), Discourse Studies 18(3), 286–310.
+
+**Practitioner convention (criteria-mapping, declarative goals, no-hedging,
+feasibility):** fellowship-office guidance from Fulbright, Rhodes, Marshall,
+and similar — not empirical research.

@@ -58,7 +58,9 @@ writing centre does. The boundary:
 
 ## Sources
 
-- Style/register findings (simple and loose sentences for clarity): Ganguly
-  (2020), Missouri S&T; *Xchanges* (2021) — see `references/style-and-voice.md`.
-- L2 / EAP genre context: Chiu (2015; 2016), Journal of English for Academic
-  Purposes; López-Ferrero & Bach (2016), Discourse Studies 18(3), 286–310.
+- Style/register findings (simple and loose sentences for clarity): Ganguly,
+  P. (2020, Missouri S&T thesis; *Xchanges* 2021) — see `references/style-and-voice.md`.
+- L2 / EAP genre context: Chiu, Y.-L. T. (2015), Journal of English for
+  Academic Purposes 17, 63–73; Chiu, Y.-L. T. (2016), Journal of English for
+  Academic Purposes 21, 48–59; López-Ferrero & Bach (2016), Discourse Studies
+  18(3), 286–310.

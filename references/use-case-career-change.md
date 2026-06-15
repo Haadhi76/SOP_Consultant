@@ -52,14 +52,13 @@ not empirical research:
 
 Do not over-apologize for the background. A non-traditional path, argued well, is
 an asset — a source of perspective the target field lacks. Confidence about the
-connection is part of the persuasion. (See `references/style-and-voice.md` for keeping
-this in the applicant's authentic voice rather than a defensive one.)
+connection is part of the persuasion. (See `references/style-and-voice.md`.)
 
 ## Sources
 
 - Chiu, Y.-L. T. (2016), Journal of English for Academic Purposes 21, 48–59
   (writer identity construction).
 - Samraj & Monk (2008), English for Specific Purposes 27(2), 193–211 (the
-  Gap → Gains sequence; self-construction).
+  Gap → Positive Gains sequence; self-construction).
 - Practitioner consensus from graduate-admissions guidance (esp. MBA
   career-change essay advice) — convention, explicitly not research.

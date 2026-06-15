@@ -3,7 +3,8 @@ name: statement-of-purpose
 description: >-
   This skill should be used whenever the user mentions an SOP, statement of
   purpose, personal statement, grad-school application essay, grad school essay,
-  admissions essay, motivation letter, letter of intent, or research proposal —
+  admissions essay, motivation letter, letter of intent, research proposal, or
+  MFA / creative-program personal statement —
   whether they want a full draft, an outline, a structural critique, help
   rescuing a draft that reads as generic, flat, or obviously AI-written, or
   reviewing and giving feedback on a draft they've already written. Also
@@ -22,9 +23,8 @@ template.
 The guidance here comes from genre-analysis research on real, successful SOPs:
 Samraj & Monk (2008, *English for Specific Purposes*), Chiu (2015 & 2016,
 *Journal of English for Academic Purposes* — doctoral statements and the
-academics who evaluate them), Ganguly (2020, Master's thesis, Missouri S&T),
-López-Ferrero & Bach (2016, *Discourse Studies*), and a stylistic study
-published in *Xchanges* (2021), alongside institutional advice from university
+academics who evaluate them), Ganguly (2020, Missouri S&T thesis; published in *Xchanges* 2021),
+López-Ferrero & Bach (2016, *Discourse Studies*), alongside institutional advice from university
 graduate schools. The findings below are empirical observations about what
 admitted applicants did, which is why they are worth following. Use-case- and
 fluency-specific findings live in the reference files and are cited there.
@@ -85,6 +85,9 @@ together rather than one at a time.
 
    When unsure, pick the more supportive level and dial back.
 
+   When a draft appears later in the workflow, re-check this assessment against
+   the actual writing and switch files if the level clearly does not match.
+
 Do not skip these two questions — they determine the whole shape of the help.
 Offer labelled options (e.g., 1/2/3 or a/b/c) so the applicant can answer quickly.
 
@@ -129,7 +132,7 @@ The three structural rules that matter most:
   (past) and the Reasons-for-Applying move (future) are *not* separate blocks in
   strong SOPs — they are braided together, so each credential points at why this
   program is the next step.
-- **Use the Gap → Gains sequence.** Move from background to a candidly named gap
+- **Use the Gap → Positive Gains sequence.** Move from background to a candidly named gap
   in skills/knowledge, then to how this specific program fills it. This is a
   recurring convention in successful statements.
 - **Only the conclusion is reliably last.** Everything else can be threaded
@@ -167,8 +170,9 @@ clear direction?
 
 Output the SOP at the program's stated limit. If none is given, see
 `references/style-and-voice.md` for length defaults by program type. For a
-substantial draft, write it to a file so the applicant can edit and submit it
-as their own. Offer a short note on what you'd flag for the applicant to
+substantial draft, write it to a plain-text file (`.txt`) — no markdown
+headings or bullets, since the SOP is continuous prose — so the applicant can
+edit and submit it as their own. Offer a short note on what you'd flag for the applicant to
 personally verify or strengthen.
 
 ## Hard rules

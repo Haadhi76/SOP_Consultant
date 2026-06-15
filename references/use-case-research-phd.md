@@ -51,7 +51,11 @@ applicable fluency file loaded in step 1).
 
 ## Typical shape
 
-- Usually longer and denser than a taught-master's SOP.
+- Usually longer and denser than a taught-master's SOP. Where no limit is
+  given, 1,000–1,200 words is a reasonable default for a US-style doctoral SOP
+  that must carry substantive research content; UK programs that require a
+  separate research proposal often specify a shorter SOP — follow the program's
+  guidance if any exists.
 - Check the program: if a research proposal is a separate required document,
   the SOP focuses on fit, trajectory, and scholarly identity, and points to the
   proposal for project detail. If not, the SOP must itself sketch the intended

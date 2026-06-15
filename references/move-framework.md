@@ -134,10 +134,9 @@ through the narrative, not as separate paragraphs labelled by trait.
 
 ## Quick assembly heuristic (taught master's as example — adapt for use case)
 
-A workable spine, shown for a taught master's. For a research/PhD statement,
-the same spine applies but the program-fit block centres on named supervisors
-and research questions rather than curriculum. For a fellowship, the gains step
-maps onto mission alignment with the funder's criteria.
+A workable spine, shown for a taught master's. For research/PhD or fellowship
+cases, adapt this spine using the applicable use-case file loaded in step 1 —
+those files contain deltas that go beyond relabelling the blocks.
 
 Not a rigid template — adapt freely:
 
@@ -145,6 +144,18 @@ Not a rigid template — adapt freely:
 2. **Build the relevant + professional self** by braiding Education/Work
    credentials with why each points toward this field (Move 2 ⟷ Move 3).
 3. **Name the gap** candidly, then **the gains** this program provides
-   (Gap → Positive Gains), anchored in **specific program attributes**.
+   (Gap → Positive Gains), anchored in **specific program attributes**
+   (Move 3, Program attributes step).
 4. **Close** with one clear career direction and a brief earned self-evaluation
    (Conclusion — expository, forward-looking).
+
+---
+
+## Sources
+
+- Samraj & Monk (2008), English for Specific Purposes 27(2), 193–211
+  (move/step taxonomy).
+- Ganguly, P. (2020, Missouri S&T thesis; *Xchanges* 2021) (coding and
+  extension of the taxonomy; appeals analysis).
+- López-Ferrero & Bach (2016), Discourse Studies 18(3), 286–310
+  (cross-disciplinary variation in move realization).

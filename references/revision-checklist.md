@@ -14,7 +14,7 @@ is in parentheses.
 - [ ] **Credentials and reasons are interwoven**, not stacked as a "past" block
       then a "future" block. (Failure: three paragraphs of résumé, then a pivot
       to "that is why I want to apply.")
-- [ ] **The Gap → Gains move is present**: a candid gap, then how *this* program
+- [ ] **The Gap → Positive Gains move is present**: a candid gap, then how *this* program
       fills it. (Failure: no stated reason the program is actually needed.)
 - [ ] **Every claim is specific.** Each "I'm interested in / good at X" is backed
       by something the applicant did. (Failure: adjectives without evidence.)
@@ -38,8 +38,9 @@ is in parentheses.
 - [ ] **Contractions are rare**, not absent, not frequent.
 - [ ] **Sentence length varies** because the content does — not uniformly long,
       not uniformly short.
-- [ ] **No AI-vocabulary tells**: delve, tapestry, testament, realm, leverage,
-      foster, navigate (figurative), multifaceted, robust, myriad, etc.
+- [ ] **No AI-vocabulary tells**: delve, tapestry, testament, realm, landscape,
+      navigate (figurative), underscore, multifaceted, intricate, pivotal,
+      leverage, harness, foster, holistic, robust, myriad.
 - [ ] **No formula sentences**: the "not just X but Y" tic, hollow aphorisms,
       relentless balanced triads.
 - [ ] **Reads in the applicant's voice**, not a generic polished register. If a

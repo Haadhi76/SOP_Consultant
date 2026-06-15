@@ -29,7 +29,7 @@ each move (Chiu's work on doctoral L2 applicants; broader genre-awareness
 research). So the higher-value help here is structural:
 
 - Give an explicit move-by-move outline before drafting.
-- Check that the Gap → Gains sequence and the credentials/reasons interweaving
+- Check that the Gap → Positive Gains sequence and the credentials/reasons interweaving
   actually happen — these are where applied genre knowledge tends to break down,
   regardless of sentence quality.
 
@@ -43,5 +43,5 @@ not arrogance.
 
 ## Sources
 
-- Chiu, Y.-L. T. (2015; 2016), Journal of English for Academic Purposes — L2
-  doctoral applicants; statement read as evidence of academic writing ability.
+- Chiu, Y.-L. T. (2015), Journal of English for Academic Purposes 17, 63–73.
+- Chiu, Y.-L. T. (2016), Journal of English for Academic Purposes 21, 48–59.
