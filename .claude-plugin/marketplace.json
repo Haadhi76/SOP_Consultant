@@ -1,0 +1,16 @@
+{
+  "name": "sop-consultant",
+  "owner": {
+    "name": "Haadhi Irfan"
+  },
+  "description": "Marketplace hosting the Statement of Purpose skill.",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "statement-of-purpose",
+      "source": "./",
+      "description": "Write, structure, and revise Statements of Purpose, grad-school essays, fellowship statements, and MBA / MFA personal statements — built on genre-analysis research of real, successful SOPs.",
+      "version": "1.0.0"
+    }
+  ]
+}

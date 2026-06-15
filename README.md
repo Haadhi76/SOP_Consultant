@@ -18,23 +18,34 @@ Built on peer-reviewed genre analysis of real, successful SOPs — not a templat
 
 ## Installation
 
-Clone or copy the skill directory into your agent's skills folder. The folder name must be `statement-of-purpose`.
+### Claude Code (plugin marketplace) — one command
 
-| Agent | Global install path |
-|---|---|
-| Claude Code | `~/.claude/skills/statement-of-purpose/` |
-| Codex CLI | `~/.agents/skills/statement-of-purpose/` |
-| Gemini CLI / Antigravity | `~/.gemini/antigravity/skills/statement-of-purpose/` |
-| OpenCode | `~/.config/opencode/skills/statement-of-purpose/` |
-| VS Code / GitHub Copilot | `.github/skills/statement-of-purpose/` (project-level) |
-
-```bash
-# Example — Claude Code
-git clone https://github.com/Haadhi76/SOP_Consultant.git \
-  ~/.claude/skills/statement-of-purpose
+```text
+/plugin marketplace add Haadhi76/SOP_Consultant
+/plugin install statement-of-purpose@sop-consultant
 ```
 
-The directory must contain `SKILL.md` and the full `references/` folder. No further configuration is required — agents discover skills automatically from the paths above.
+Claude Code then loads the skill automatically. The skill name is `statement-of-purpose`.
+
+### Any other agent (Codex, Gemini, OpenCode, Copilot, …) — copy the skill folder
+
+The skill itself lives in this repo at [`skills/statement-of-purpose/`](skills/statement-of-purpose/). Copy that one folder into your agent's skills directory (the folder name must stay `statement-of-purpose`):
+
+| Agent | Skills directory |
+|---|---|
+| Claude Code (manual) | `~/.claude/skills/` |
+| Codex CLI | `~/.agents/skills/` |
+| Gemini CLI / Antigravity | `~/.gemini/antigravity/skills/` |
+| OpenCode | `~/.config/opencode/skills/` |
+| VS Code / GitHub Copilot | `.github/skills/` (project-level) |
+
+```bash
+# Example — clone the repo, copy the skill folder into Claude Code's skills dir
+git clone https://github.com/Haadhi76/SOP_Consultant.git
+cp -r SOP_Consultant/skills/statement-of-purpose ~/.claude/skills/
+```
+
+The copied `statement-of-purpose/` folder contains `SKILL.md` and the full `references/` folder — no further configuration is required.
 
 ## Triggering the skill
 
@@ -54,21 +65,26 @@ You can also trigger it explicitly: *"Use the statement-of-purpose skill to help
 ## Directory structure
 
 ```
-statement-of-purpose/
-├── SKILL.md                               # Main skill — workflow, hard rules, file routing
-└── references/
-    ├── move-framework.md                  # Rhetorical move taxonomy + appeals (ethos/logos/pathos)
-    ├── style-and-voice.md                 # Register, authenticity, anti-generic-AI guidance
-    ├── revision-checklist.md              # Checklist for critiquing or polishing a draft
-    ├── use-case-taught-masters.md         # Taught / coursework master's calibration
-    ├── use-case-mba.md                    # MBA / business-school calibration
-    ├── use-case-research-phd.md           # Research master's and doctoral calibration
-    ├── use-case-career-change.md          # Career-pivot modifier (layered on top of degree case)
-    ├── use-case-fellowship-scholarship.md # Fellowship and scholarship calibration
-    ├── use-case-mfa.md                    # MFA and creative-program calibration
-    ├── fluency-fluent-or-native.md        # Guidance for fluent / native-English writers
-    ├── fluency-advanced-l2.md             # Guidance for advanced non-native writers
-    └── fluency-developing-l2.md           # Guidance for writers still building academic English
+SOP_Consultant/
+├── .claude-plugin/
+│   ├── marketplace.json                   # Claude Code marketplace manifest
+│   └── plugin.json                        # Claude Code plugin manifest
+└── skills/
+    └── statement-of-purpose/
+        ├── SKILL.md                       # Main skill — workflow, hard rules, file routing
+        └── references/
+            ├── move-framework.md                  # Rhetorical move taxonomy + appeals (ethos/logos/pathos)
+            ├── style-and-voice.md                 # Register, authenticity, anti-generic-AI guidance
+            ├── revision-checklist.md              # Checklist for critiquing or polishing a draft
+            ├── use-case-taught-masters.md         # Taught / coursework master's calibration
+            ├── use-case-mba.md                    # MBA / business-school calibration
+            ├── use-case-research-phd.md           # Research master's and doctoral calibration
+            ├── use-case-career-change.md          # Career-pivot modifier (layered on top of degree case)
+            ├── use-case-fellowship-scholarship.md # Fellowship and scholarship calibration
+            ├── use-case-mfa.md                    # MFA and creative-program calibration
+            ├── fluency-fluent-or-native.md        # Guidance for fluent / native-English writers
+            ├── fluency-advanced-l2.md             # Guidance for advanced non-native writers
+            └── fluency-developing-l2.md           # Guidance for writers still building academic English
 ```
 
 ## How the reference files are used

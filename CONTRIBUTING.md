@@ -8,23 +8,24 @@ An agent skill — following the [Agent Skills open standard](https://agentskill
 
 ## How to install locally for testing
 
-Clone into the skills directory for your agent (folder name must be `statement-of-purpose`):
+The skill lives at `skills/statement-of-purpose/` in this repo.
 
-```bash
-# Claude Code
-git clone https://github.com/Haadhi76/SOP_Consultant.git \
-  ~/.claude/skills/statement-of-purpose
+**Claude Code (plugin marketplace):**
 
-# Codex CLI
-git clone https://github.com/Haadhi76/SOP_Consultant.git \
-  ~/.agents/skills/statement-of-purpose
-
-# OpenCode
-git clone https://github.com/Haadhi76/SOP_Consultant.git \
-  ~/.config/opencode/skills/statement-of-purpose
+```text
+/plugin marketplace add Haadhi76/SOP_Consultant
+/plugin install statement-of-purpose@sop-consultant
 ```
 
-Agents discover skills automatically from these paths — no restart needed.
+**Any other agent — copy the skill folder** into your agent's skills directory (folder name must stay `statement-of-purpose`):
+
+```bash
+git clone https://github.com/Haadhi76/SOP_Consultant.git
+cp -r SOP_Consultant/skills/statement-of-purpose ~/.claude/skills/        # Claude Code
+# Codex CLI:  ~/.agents/skills/        OpenCode:  ~/.config/opencode/skills/
+```
+
+Agents discover skills automatically from these paths — no restart needed. To test a local edit before pushing, run `claude plugin validate .` from the repo root.
 
 ## Types of contributions
 
