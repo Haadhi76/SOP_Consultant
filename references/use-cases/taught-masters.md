@@ -1,7 +1,7 @@
 # Taught master's — what changes
 
 This is the closest case to the base move framework, so the deltas are small.
-A taught (coursement-based) MSc/MA is usually about gaining professional or
+A taught (coursework-based) MSc/MA is usually about gaining professional or
 disciplinary capability, not about proving research potential. Calibrate
 accordingly.
 

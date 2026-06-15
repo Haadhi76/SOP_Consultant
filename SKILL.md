@@ -1,18 +1,19 @@
 ---
 name: statement-of-purpose
 description: >-
-  Write, structure, draft, critique, or revise a Statement of Purpose (SOP),
-  personal statement, or letter of intent for graduate-school, fellowship, or
-  scholarship applications. Use this skill whenever the user mentions an SOP,
-  statement of purpose, personal statement, grad-school application essay,
-  admissions essay, motivation letter, or letter of intent — whether they want a
-  full draft, an outline, a structural critique, or help rescuing a draft that
-  reads as generic, flat, or obviously AI-written. Adapts to the use case
-  (taught master's, research/PhD, career change, fellowship/scholarship) and to
-  the applicant's English-fluency level. Grounded in peer-reviewed genre
-  analysis of the SOP. Builds the applicant's own truthful material into a
-  specific, human-voiced essay; it does not invent credentials and does not help
-  disguise authorship or defeat AI-detection systems.
+  Writes, structures, drafts, critiques, or revises a Statement of Purpose
+  (SOP), personal statement, or letter of intent for graduate-school,
+  fellowship, or scholarship applications. This skill should be used whenever
+  the user mentions an SOP, statement of purpose, personal statement, grad-school
+  application essay, grad school essay, admissions essay, motivation letter,
+  letter of intent, or research proposal — whether they want a full draft, an
+  outline, a structural critique, or help rescuing a draft that reads as generic,
+  flat, or obviously AI-written. Adapts to the use case (taught master's,
+  research/PhD, career change, fellowship/scholarship) and to the applicant's
+  English-fluency level. Grounded in peer-reviewed genre analysis of the SOP.
+  Builds the applicant's own truthful material into a specific, human-voiced
+  essay; does not invent credentials and does not help disguise authorship or
+  defeat AI-detection systems.
 ---
 
 # Statement of Purpose

@@ -1,5 +1,7 @@
 # Statement of Purpose Skill
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A Claude Code skill for writing, drafting, structuring, and revising Statements of Purpose (SOPs), personal statements, and letters of intent for graduate-school, fellowship, and scholarship applications.
 
 Built on peer-reviewed genre analysis of real, successful SOPs — not a template.
