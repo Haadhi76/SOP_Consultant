@@ -40,22 +40,18 @@ You can also trigger it explicitly: *"Use the statement-of-purpose skill to help
 
 ```
 statement-of-purpose/
-├── SKILL.md                          # Main skill — workflow, hard rules, file routing
+├── SKILL.md                               # Main skill — workflow, hard rules, file routing
 └── references/
-    ├── move-framework.md             # Rhetorical move taxonomy + appeals (ethos/logos/pathos)
-    ├── style-and-voice.md            # Register, authenticity, anti-generic-AI guidance
-    ├── revision-checklist.md         # Checklist for critiquing or polishing a draft
-    ├── use-cases/
-    │   ├── README.md                 # Human reference: source notes and routing table
-    │   ├── taught-masters.md         # Taught / coursework master's calibration
-    │   ├── research-phd.md           # Research master's and doctoral calibration
-    │   ├── career-change.md          # Career-pivot modifier (layered on top of degree case)
-    │   └── fellowship-scholarship.md # Fellowship and scholarship calibration
-    └── fluency/
-        ├── README.md                 # Human reference: source notes and routing table
-        ├── fluent-or-native.md       # Guidance for fluent / native-English writers
-        ├── advanced-l2.md            # Guidance for advanced non-native writers
-        └── developing-l2.md          # Guidance for writers still building academic English
+    ├── move-framework.md                  # Rhetorical move taxonomy + appeals (ethos/logos/pathos)
+    ├── style-and-voice.md                 # Register, authenticity, anti-generic-AI guidance
+    ├── revision-checklist.md              # Checklist for critiquing or polishing a draft
+    ├── use-case-taught-masters.md         # Taught / coursework master's calibration
+    ├── use-case-research-phd.md           # Research master's and doctoral calibration
+    ├── use-case-career-change.md          # Career-pivot modifier (layered on top of degree case)
+    ├── use-case-fellowship-scholarship.md # Fellowship and scholarship calibration
+    ├── fluency-fluent-or-native.md        # Guidance for fluent / native-English writers
+    ├── fluency-advanced-l2.md             # Guidance for advanced non-native writers
+    └── fluency-developing-l2.md           # Guidance for writers still building academic English
 ```
 
 ## How the reference files are used
@@ -64,9 +60,7 @@ statement-of-purpose/
 
 - `move-framework.md` and `style-and-voice.md` are read for **every** SOP.
 - `revision-checklist.md` is read before revising any draft.
-- `SKILL.md` contains inline routing tables that map program type → use-case file and fluency level → fluency file. Claude selects and loads those files directly — no intermediate README hop.
-
-The `use-cases/README.md` and `fluency/README.md` files are human-readable reference docs (source notes, extended routing rationale) and are not part of Claude's load path.
+- `SKILL.md` contains inline routing tables that map program type → `use-case-*.md` file and fluency level → `fluency-*.md` file. Claude selects and loads those files directly — all reference files are one level deep from `SKILL.md`.
 
 ## Hard rules
 

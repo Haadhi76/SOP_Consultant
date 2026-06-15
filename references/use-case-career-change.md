@@ -1,7 +1,7 @@
 # Career change — what changes
 
 This is a **modifier**, not a standalone case. Layer it on top of
-`taught-masters.md` or `research-phd.md`, whichever matches the target program.
+`use-case-taught-masters.md` or `use-case-research-phd.md`, whichever matches the target program.
 It addresses the one problem a career-changer's SOP must solve: making a pivot
 read as *continuity and considered intent*, not rupture or escape.
 
@@ -52,7 +52,7 @@ not empirical research:
 
 Do not over-apologize for the background. A non-traditional path, argued well, is
 an asset — a source of perspective the target field lacks. Confidence about the
-connection is part of the persuasion. (See `../style-and-voice.md` for keeping
+connection is part of the persuasion. (See `style-and-voice.md` for keeping
 this in the applicant's authentic voice rather than a defensive one.)
 
 ## Sources

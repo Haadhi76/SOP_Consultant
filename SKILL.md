@@ -68,10 +68,10 @@ together rather than one at a time.
 
    | Use case | File |
    |---|---|
-   | Taught master's | `references/use-cases/taught-masters.md` |
-   | Research master's / PhD / doctoral | `references/use-cases/research-phd.md` |
-   | Career change (modifier) | `references/use-cases/career-change.md` — layer on top of the degree file |
-   | Fellowship / scholarship / grant | `references/use-cases/fellowship-scholarship.md` |
+   | Taught master's | `references/use-case-taught-masters.md` |
+   | Research master's / PhD / doctoral | `references/use-case-research-phd.md` |
+   | Career change (modifier) | `references/use-case-career-change.md` — layer on top of the degree file |
+   | Fellowship / scholarship / grant | `references/use-case-fellowship-scholarship.md` |
 
    These are deltas on top of the base — read alongside core files, not instead.
    If more than one applies, read both; the deltas compose.
@@ -83,9 +83,9 @@ together rather than one at a time.
 
    | Level | File |
    |---|---|
-   | Fluent / native | `references/fluency/fluent-or-native.md` |
-   | Advanced L2 | `references/fluency/advanced-l2.md` |
-   | Developing L2 | `references/fluency/developing-l2.md` |
+   | Fluent / native | `references/fluency-fluent-or-native.md` |
+   | Advanced L2 | `references/fluency-advanced-l2.md` |
+   | Developing L2 | `references/fluency-developing-l2.md` |
 
    When unsure, pick the more supportive level and dial back.
 
@@ -176,8 +176,8 @@ note on what you'd flag for the applicant to personally verify or strengthen.
 
 ## Calibrating by use case and fluency
 
-Program-type and career-change calibration now lives in `references/use-cases/`,
-and language-support calibration in `references/fluency/`. Load the files that
+Program-type and career-change calibration lives in the `references/use-case-*.md`
+files, and language-support calibration in the `references/fluency-*.md` files. Load the files that
 match what you established in step 1 and apply their deltas on top of the core
 framework. Briefly: a taught master's leans on professional skills and the
 gap-being-filled; a research/PhD program leans on research fit and a scholarly
@@ -219,13 +219,13 @@ makes the skill something it should not be:
   critiquing one the applicant brings). Read before revising.
 
 **Use-case deltas (read the one[s] matching step 1):**
-`references/use-cases/taught-masters.md`, `references/use-cases/research-phd.md`,
-`references/use-cases/career-change.md` (modifier),
-`references/use-cases/fellowship-scholarship.md`.
+`references/use-case-taught-masters.md`, `references/use-case-research-phd.md`,
+`references/use-case-career-change.md` (modifier),
+`references/use-case-fellowship-scholarship.md`.
 
 **Fluency deltas (read the one matching step 1):**
-`references/fluency/fluent-or-native.md`, `references/fluency/advanced-l2.md`,
-`references/fluency/developing-l2.md`.
+`references/fluency-fluent-or-native.md`, `references/fluency-advanced-l2.md`,
+`references/fluency-developing-l2.md`.
 
 The use-case and fluency files are *deltas* layered on the core — read them in
 addition to the core files, never instead of them. Their sources (Chiu 2015,

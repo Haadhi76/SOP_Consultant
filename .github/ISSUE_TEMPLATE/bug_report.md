@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 **Which file is the problem in?**
-e.g. SKILL.md, references/move-framework.md, references/use-cases/research-phd.md
+e.g. SKILL.md, references/move-framework.md, references/use-case-research-phd.md
 
 **What happened?**
 Describe what the skill told Claude to do (or not do) that was wrong.

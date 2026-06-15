@@ -9,7 +9,7 @@ truthful and theirs.
 
 The genre's preferred register is already plain: the research finds successful
 statements favor **simple and loose sentences** for clarity and lucidity (see
-`../style-and-voice.md`). So writing clearly and plainly is not a compromise at
+`style-and-voice.md`). So writing clearly and plainly is not a compromise at
 this level — it *is* the target register. Lean into it:
 
 - Prefer short and medium sentences, one idea each, in the active voice.
@@ -59,6 +59,6 @@ writing centre does. The boundary:
 ## Sources
 
 - Style/register findings (simple and loose sentences for clarity): Ganguly
-  (2020), Missouri S&T; *Xchanges* (2021) — see `../style-and-voice.md`.
+  (2020), Missouri S&T; *Xchanges* (2021) — see `style-and-voice.md`.
 - L2 / EAP genre context: Chiu (2015; 2016), Journal of English for Academic
   Purposes; López-Ferrero & Bach (2016), Discourse Studies 18(3), 286–310.
