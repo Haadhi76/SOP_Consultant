@@ -38,8 +38,9 @@ credibility*.
 Chiu (2015) interviewed faculty assessors and found they treat the statement as
 evidence of research potential, fit with the program, *and* the applicant's
 academic writing ability itself — the document is read as a writing sample. This
-raises the bar on clarity, structure, and disciplinary register (see the fluency
-files for L2 calibration).
+raises the bar on clarity, structure, and disciplinary register (see
+`references/fluency-advanced-l2.md` or `references/fluency-developing-l2.md`
+depending on the applicant's level).
 
 ## What to de-emphasize
 

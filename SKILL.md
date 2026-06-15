@@ -1,19 +1,13 @@
 ---
 name: statement-of-purpose
 description: >-
-  Writes, structures, drafts, critiques, or revises a Statement of Purpose
-  (SOP), personal statement, or letter of intent for graduate-school,
-  fellowship, or scholarship applications. This skill should be used whenever
-  the user mentions an SOP, statement of purpose, personal statement, grad-school
-  application essay, grad school essay, admissions essay, motivation letter,
-  letter of intent, or research proposal — whether they want a full draft, an
-  outline, a structural critique, or help rescuing a draft that reads as generic,
-  flat, or obviously AI-written. Adapts to the use case (taught master's,
-  research/PhD, career change, fellowship/scholarship) and to the applicant's
-  English-fluency level. Grounded in peer-reviewed genre analysis of the SOP.
-  Builds the applicant's own truthful material into a specific, human-voiced
-  essay; does not invent credentials and does not help disguise authorship or
-  defeat AI-detection systems.
+  This skill should be used whenever the user mentions an SOP, statement of
+  purpose, personal statement, grad-school application essay, grad school essay,
+  admissions essay, motivation letter, letter of intent, or research proposal —
+  whether they want a full draft, an outline, a structural critique, or help
+  rescuing a draft that reads as generic, flat, or obviously AI-written. Also
+  applies for fellowship statements, scholarship essays, and grant personal
+  statements.
 ---
 
 # Statement of Purpose
@@ -32,7 +26,7 @@ López-Ferrero & Bach (2016, *Discourse Studies*), and a stylistic study
 published in *Xchanges* (2021), alongside institutional advice from university
 graduate schools. The findings below are empirical observations about what
 admitted applicants did, which is why they are worth following. Use-case- and
-fluency-specific findings live in the reference subfolders and are cited there.
+fluency-specific findings live in the reference files and are cited there.
 
 ## The one thing to get right first
 
@@ -173,17 +167,6 @@ Output the SOP at the right length for the program (default to the stated limit;
 if none, ~650–750 words for a taught master's). For a substantial draft, write
 it to a file so the applicant can edit and submit it as their own. Offer a short
 note on what you'd flag for the applicant to personally verify or strengthen.
-
-## Calibrating by use case and fluency
-
-Program-type and career-change calibration lives in the `references/use-case-*.md`
-files, and language-support calibration in the `references/fluency-*.md` files. Load the files that
-match what you established in step 1 and apply their deltas on top of the core
-framework. Briefly: a taught master's leans on professional skills and the
-gap-being-filled; a research/PhD program leans on research fit and a scholarly
-identity; a fellowship answers published criteria and weights mission/impact;
-and a career change layers a "make the pivot read as continuity" modifier on top
-of whichever degree case applies. The files carry the detail and the sources.
 
 ## Hard rules
 

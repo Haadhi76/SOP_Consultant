@@ -6,7 +6,7 @@ specificity, and structure — the things that actually distinguish statements.
 ## What to do
 
 - **Put the work into the moves, not the grammar.** Apply the use-case file and
-  `move-framework.md` rigorously. A fluent applicant's weakness is almost
+  `references/move-framework.md` rigorously. A fluent applicant's weakness is almost
   never sentences; it is a generic narrative, weak program fit, or a CV in
   prose.
 - **Preserve and sharpen the applicant's own idiom.** If they provided a draft
@@ -16,7 +16,7 @@ specificity, and structure — the things that actually distinguish statements.
 ## The main risk at this level
 
 Fluent writing slides easily into the **generic, over-polished register** that
-reads as templated or machine-made — the exact failure mode `style-and-voice.md`
+reads as templated or machine-made — the exact failure mode `references/style-and-voice.md`
 targets. Watch for it harder here than at any other level, because the prose is
 smooth enough to hide it:
 
@@ -31,4 +31,4 @@ smooth enough to hide it:
 ## Sources
 
 - Style/register findings: Ganguly (2020), Missouri S&T; and the SOP stylistic
-  analysis published in *Xchanges* (2021) referenced in `style-and-voice.md`.
+  analysis published in *Xchanges* (2021) referenced in `references/style-and-voice.md`.

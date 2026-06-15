@@ -15,7 +15,7 @@ Smooth the recurring L2 markers without sterilizing the writing:
   research" → "do research"; "since 5 years" → "for five years").
 - **Register calibration** — L2 writers sometimes swing between overly formal
   ("Henceforth I aspire to...") and overly casual. Pull toward the formal-but-
-  personal register the genre wants (see `style-and-voice.md`).
+  personal register the genre wants (see `references/style-and-voice.md`).
 - **Do not over-correct into a generic "native" voice.** A trace of the writer's
   own cadence is authenticity, not error. Fix what impedes clarity or reads as a
   mistake; leave what is simply *theirs*.
