@@ -63,14 +63,29 @@ together rather than one at a time.
 1. **Use case.** Ask which applies: a *taught master's*, a *research master's
    or PhD/doctoral* program, or a *fellowship/scholarship/grant*. Separately ask
    whether this is a *career change* (a pivot into a new field), since that
-   layers on top of either degree case. Then read the matching file(s) in
-   `references/use-cases/` (see `references/use-cases/README.md` for routing) —
-   these are deltas on top of the base, so read them alongside the core files,
-   not instead of them.
+   layers on top of either degree case. Read the matching file(s):
+
+   | Use case | File |
+   |---|---|
+   | Taught master's | `references/use-cases/taught-masters.md` |
+   | Research master's / PhD / doctoral | `references/use-cases/research-phd.md` |
+   | Career change (modifier) | `references/use-cases/career-change.md` — layer on top of the degree file |
+   | Fellowship / scholarship / grant | `references/use-cases/fellowship-scholarship.md` |
+
+   These are deltas on top of the base — read alongside core files, not instead.
+   If more than one applies, read both; the deltas compose.
+
 2. **English-fluency level.** Ask how comfortable the applicant is writing
    academic English (fluent/native, advanced but with some non-native markers,
-   or a real effort), or infer it from any draft they share. Then read the
-   matching file in `references/fluency/` (see `references/fluency/README.md`).
+   or a real effort), or infer it from any draft they share. Read the matching
+   file:
+
+   | Level | File |
+   |---|---|
+   | Fluent / native | `references/fluency/fluent-or-native.md` |
+   | Advanced L2 | `references/fluency/advanced-l2.md` |
+   | Developing L2 | `references/fluency/developing-l2.md` |
+
    When unsure, pick the more supportive level and dial back.
 
 Do not skip these two questions — they determine the whole shape of the help.
@@ -202,13 +217,14 @@ makes the skill something it should not be:
 - `references/revision-checklist.md` — the checklist for revising a draft (or
   critiquing one the applicant brings). Read before revising.
 
-**Use-case deltas (read the one[s] matching step 1):** see
-`references/use-cases/README.md` for routing — `taught-masters.md`,
-`research-phd.md`, `career-change.md` (a modifier), `fellowship-scholarship.md`.
+**Use-case deltas (read the one[s] matching step 1):**
+`references/use-cases/taught-masters.md`, `references/use-cases/research-phd.md`,
+`references/use-cases/career-change.md` (modifier),
+`references/use-cases/fellowship-scholarship.md`.
 
-**Fluency deltas (read the one matching step 1):** see
-`references/fluency/README.md` for routing — `fluent-or-native.md`,
-`advanced-l2.md`, `developing-l2.md`.
+**Fluency deltas (read the one matching step 1):**
+`references/fluency/fluent-or-native.md`, `references/fluency/advanced-l2.md`,
+`references/fluency/developing-l2.md`.
 
 The use-case and fluency files are *deltas* layered on the core — read them in
 addition to the core files, never instead of them. Their sources (Chiu 2015,
